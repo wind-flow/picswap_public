@@ -136,6 +136,7 @@ class _AppState extends ConsumerState<_App> {
   @override
   Widget build(BuildContext context) {
     final router = ref.watch(routerProvider);
+    locale = EasyLocalization.of(context)!.currentLocale.toString();
 
     return GlobalLoaderOverlay(
       useDefaultLoading: false,
