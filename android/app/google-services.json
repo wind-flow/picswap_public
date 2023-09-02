@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164802809213",
+    "firebase_url": "https://picswappublic-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "picswappublic",
+    "storage_bucket": "picswappublic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164802809213:android:62c92b75cef24cf2751014",
+        "android_client_info": {
+          "package_name": "com.wittyapps.picswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164802809213-5r12pio3d2rh40qgdut3u9jncupuuql6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjiAfh0ZffLwgNoR8u8nnxDg4T3aZWl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164802809213-5r12pio3d2rh40qgdut3u9jncupuuql6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164802809213-l0vbh8a6ves6h148o6l4npa35cs06g8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wittyapps.picswap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

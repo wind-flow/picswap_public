@@ -1,0 +1,132 @@
+str,en_US,ko_KR
+hi,Hi,안녕
+app_name,picswap,picswap
+nickname,nickname,닉네임
+generator,generator,생성
+createRoom,Create Room,방 생성
+joinRoom,Join Room,방 참가
+create,Create,생성
+join,Join,참가
+ok,Okay,확인
+cancel,Cancel,취소
+roomNo,Room No,방번호
+camera,Camera,카메라
+gallery,Gallery,갤러리
+click,Click,클릭
+ready,Ready,준비
+getCoin,"Get Coin 
+by Seeing Ad!","광고보고 
+코인 얻기"
+itemList,Item List,아이템 목록
+noticeReadBeforePurchaseTitle,Please Read Before Purchase,구매 전 필독
+noticeReadBeforePurchaseContent,"If you change your device or delete the app, your items and Coins will be destroyed and cannot be recovered or refunded, so please be careful when purchasing.","기기를 변경하거나 앱을 삭제하는 경우 보유한 아이템 및 Coin이 소멸되며, 복구 및 환불이 불가하오니 구매 시 유의하시기 바랍니다."
+unknown,Unknown,알 수 없음
+main,Main,메인
+setting,Setting,설정
+swap,Swap,교환
+tutorial,Tutorial,튜토리얼
+store,Store,스토어
+coinNotEnough,You don't have enough coins to purchase.,코인이 부족합니다.
+itemNotEnough,You don't have enough ${item},${item}이 부족합니다.
+errorGenNickname,Fail to generate nickname,닉네임 생성 실패
+errorGenRoomNo,Fail Generate Room Number,방번호 생성 실패
+errorNetworkCantConnect,Network is not connected,네트워크 연결할 수 없어 앱을 종료합니다
+token,Token,교환권
+add,Add,추가
+confirmExit,Do you want to exit?,정말 나가시겠습니까?
+sendMessage,Send a message,메세지 보내기
+noticePurchaseSuccess,Success Purchase,구매 성공
+notice,Notice,공지
+noticeConsumeToken,"Do you want create room? 
+You have {totalToken} tokens.
+(Free : {tokenFree}, Purchase: {tokenPurchase})","방을 만드시겠습니까? 
+생성 가능 회수 {totalToken} 남았습니다.
+(기본 : {tokenFree}, 추가 : {tokenPurchase})"
+store,Store,스토어
+enterRoomNumber,Enter Room Number,방번호 입력
+notice,notice,공지
+sendMail,send Mail,문의하기
+version,version,버전
+confirmPurchase,Do you want to Purchase item by paying {needCoin} coin?,{needCoin}코인을 소비해 구매하시겠습니까?
+noticeAllowPermission,You must allow permission to use the app,권한을 허용해야 앱 사용 가능합니다
+allowEverything,Allow EveryThing,전부 허용
+goSetting,Go to Setting,설정하러 가기
+permission,Permission,권한
+chat,Chat,채팅
+chatNotify,Chatting feature is available after swap picture process is done.,사진 교환이 완료된 후 채팅이 가능합니다.
+failWriteEmail,"It's a difficult situation to send mail because you can't use your default mail app.
+Please contact us at the email address below and we will respond kindly :) 
+
+{mail}","기본 메일 앱을 사용할 수 없기 때문에 메일을 보내기 어려운 상황입니다.
+아래 이메일로 연락주시면 친절하게 답변해드릴게요 :)
+
+{mail}"
+chatCreateMessage,Chat room is created,채팅방이 생성되었습니다
+chatEnterMessage,{nickname} is enter the chat room,{nickname}님이 입장하셨습니다
+chatExitMessage,{nickname} is exit,{nickname}님이 나가셨습니다
+deactiveNoti,"If you don't move, you are exited",동작하지 않으면 퇴장처리됩니다
+roomRemoved,Room is removed,방이 삭제되었습니다
+tutorialContent1,"1. Set a nickname by random.
+2. Click the check icon to save your nickname.
+3. Create a picture swap room. If you want to create room, you should pay 1 token.
+4. Enter the room number to participate in the picture swap room.
+5. When you want to know how to use picswap, please click
+6. It's store. You can get coin, and purchase item by spending coin.","1. 닉네임을 랜덤으로 설정합니다.
+2. 체크 아이콘을 눌러야 닉네임이 저장됩니다.
+3. 사진교환방을 생성합니다. 생성시 교환권 1개가 소모됩니다.
+4. 방번호를 입력해 사진교환방에 참가합니다.
+5. picswap 사용법을 알고싶다면 클릭하세요
+6. 상점입니다. 코인을 얻고, 코인을 지불해 아이템을 살 수 있습니다."
+tutorialContent2,"1. Click to select the photo you want to swap. Before presses ready each other, each picture looks blurry to the each other.
+2. This is the part where you can see the opposite's picture.
+3. There are Room number info and ready button. you can ready after choose a picture. When both are ready, both can see the each pictures.
+4. You can chat after the picture swap is done.
+5. You can report If someone violate you or picture is lewed.","1. 클릭해 교환할 사진을 선택합니다. 서로 준비를 누르기전에는 각자의 사진이 상대방에게 뿌옇게 보여요.
+2. 상대방의 사진이 보이는 부분입니다. 
+3. 방번호와 준비 버튼입니다. 사진을 선택하면 준비를 할 수 있습니다. 서로 준비가 완료되면, 사진을 볼 수 있어요.
+4. 사진 교환이 완료되면 채팅을 할 수 있습니다.
+5. 상대방이 부적절한 표현을 사용하거나, 음란한 사진을 보낸다면 신고할 수 있습니다."
+tutorialContent3,"1. Activate ready button after select picture.
+2. Press the Ready button and the status will turn red to green. The opposite can also see my ready status.
+3. When both are ready, both can see each picture clearly.","1. 내 사진을 선택하면 준비버튼이 활성화됩니다.
+2. 준비버튼을 누르면 상태창이 초록색으로 바뀝니다. 상대방도 내 준비상태를 볼 수 있어요
+3. 서로 준비상태가 되면 상대방의 사진을 볼 수 있어요."
+tutorialContent4,"1. Your coin and item.
+2. You can get coin by watching ads.
+3. Things to keep in mind when purchasing.
+4. Item list.","1. 코인 및 아이템 보유 현황입니다.
+2. 광고를 시청해서 코인을 얻을 수 있습니다.
+3. 구매시 유의사항입니다.
+4. 아이템 목록입니다."
+tutorialContent5,"1. If you have any questions, please send us an email.
+2. This is a notice.
+3. Current installed version.","1. 문의사항이 있으면 메일로 보내주세요.
+2. 공지사항입니다.
+3. 현재 설치 버전입니다."
+userIsOut,User is Out,상대방이 나갔습니다
+noTargetReport,There is no target to report,신고할 대상이 없습니다
+alreadyReport,You already report,이미 신고했습니다
+noticeReport,"If report count is more than 5, the account will be suspended.",누적 신고횟수가 5회 이상이면 계정이 정지됩니다.
+confirmReport,"Your report is complete.
+Please allow up to 24 hours for review.","신고가 완료되었습니다. 
+조치는 최대 24시간이 소요됩니다."
+abuse,abuse,부적절한 언어
+lewdness,lwedness,음란성
+etc,etc,기타
+noGuest,There is no guest. Please upload picture when the guest is comming.,상대방이 없습니다. 상대방이 들어오면 사진 올려주세요.
+isDone,The picture exchange has been completed and the room status has been terminated.,사진교환이 완료되어 방의 상태가 종료되었습니다.
+EULATitle,End User License Agreement,최종 사용자 라이센스 계약
+EULAContent,"This app strictly restricts the use of inappropriate content such as profanity, hate speech, gore, sexual language, violence, and obscenity in conversation.
+
+Please do not expose privacy information, and be especially care of scams that occur from exchanging phone numbers.
+
+Esepcially, be aware that there is a risk of privacy information theft, such as phonebooks, if you induce installation with other unreliable 3rd-party apps.","이 앱은 대화에 비속한 표현, 증오심 표현, 유혈 묘사, 성적인 표현 및 폭력, 음란 등 부적절한 콘텐츠에 대한 사용을 엄격히 제한합니다.
+
+개인정보를 노출하지 마시고, 특히 전화번호 교환 등으로부터 발생하는 사기에 주의하시기 바랍니다.
+
+특히 신뢰할 수 없는 타 앱으로 설치를 유도하는 경우 전화번호부 등 개인정보 탈취에 대한 위험이 있으니 유의하시기 바랍니다."
+EUCLContentLink,"By continuing, you agree to our Terms and Conditions and Privacy Policy.",계속 진행하시면 당사의 이용약관 및 개인정보처리방침에 동의하시는 것으로 간주합니다.
+termsAndConditions,Terms and Conditions,이용약관
+privacyPolicy,Privacy Policy,개인정보처리방침
+agree,agree,동의
+notYetPic,There is no partner.,상대방이 없습니다.
